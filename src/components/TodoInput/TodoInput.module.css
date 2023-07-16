@@ -1,0 +1,7 @@
+.addBtn {
+  background-color: #f20061;
+}
+
+.addBtn:disabled {
+  background-color: #b0b0b0;
+}

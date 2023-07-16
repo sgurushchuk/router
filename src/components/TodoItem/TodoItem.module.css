@@ -1,0 +1,23 @@
+.todoItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.itemTitle {
+  flex: 1;
+}
+
+.editBtn {
+  background-color: #ffffff;
+  border: solid 1px black;
+  color: black;
+}
+
+.deleteBtn {
+  background-color: #ffffff;
+  border: solid 1px #f20061;
+  color: #f20061;
+}

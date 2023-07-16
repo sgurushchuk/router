@@ -1,0 +1,18 @@
+.sortBtn {
+  color: #000000;
+  background-color: rgb(244, 244, 244);
+}
+
+.searchBtn {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+}
+
+.searchForm {
+  margin-bottom: 10px;
+}
+
+.sortWrapper {
+  display: flex;
+  justify-content: flex-end;
+}
